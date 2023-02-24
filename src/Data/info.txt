@@ -1,0 +1,2 @@
+'all.csv' is a file containing 5 test metadata information created for the BDSI demo
+'DFTTetrascience-metadata' contains a revised version of a tetrascience call by date
